@@ -1,0 +1,104 @@
+*{
+	margin: 0 auto;
+}
+.wrapper{
+	margin-top:20px;
+	width:1000px auto;
+}
+.menu{
+	float: left;
+	width: 20%;
+}
+.list-quanly{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border: 1px solid;
+}
+.content{
+	padding-left: 20px;
+	width: 79%;
+	float: left;
+	margin-left: 10px;
+	border-width:5px;	
+    border-style:ridge;
+    padding-bottom: 20px;
+}
+ul{
+	list-style-type: none;
+}
+.list{
+	height: 90px;
+	text-align: center;
+	border: 2px solid #558019;
+}
+.clear{
+	clear: both;
+}
+.menu a{
+	background: #73AD21;
+	font-size: 17px;
+	padding-top: 32px;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+}
+.menu a:hover{
+	background: #64961d;
+}
+.title h1{
+	text-align: center;
+}
+.menu ul{
+	padding-left: 0px;
+}
+.table tr th{
+	color:white;
+	text-align: center;
+}
+.table tr{
+	text-align: center;
+}
+.sp-trang{
+	display: inline-block;
+	border: 1px solid #558118;
+	background-color: #a5de54;
+	margin:2px;
+	padding: 4px 8px;
+	border-radius: 20px;
+}
+a.trang{
+	display: inline-block;
+	border: 1px solid #558118;
+	text-align: center;
+	padding: 4px 8px;
+	text-decoration: none;
+	margin: 2px;
+	border-radius: 20px;
+}
+a.trang:hover{
+	background-color: #a5de54;
+}
+.space{
+	margin-right: 50px;
+	margin-top: :50px;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.footer{
+	margin-top: 15px;
+}
+.tooltip{
+	display: none;
+}

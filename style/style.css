@@ -1,0 +1,294 @@
+*{
+	margin: 0 auto;
+}
+a:hover{
+	text-decoration: none;
+}
+.clr{
+	clear: both;
+}
+.leftcolumn a{
+	color: #ffffff;
+	text-decoration: none;
+}
+.menu a{
+	color: #ffffff;
+	text-decoration: none;
+}
+h3{
+	margin-top: 0px;
+}
+.lienquan{
+	margin-top: 10px;
+}
+body{
+
+}
+.left{
+	text-align: center;
+	display: block;
+	border-bottom: 1px solid #558118;
+	padding: 5px;
+	color: #ffffff;
+	background: url('http://dep.anh9.com/imgs/131130hinh-nen-laptop-nhung-giot-nuoc-tinh-kiet-mau-xanh-la-cay.jpg');
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	font-size: 21px;
+}
+.banner{
+	width:990px;
+}
+.menu{
+	width:990px;
+	border-radius: 5px;
+	background: #333333;
+	opacity: 0.9;
+}
+.menu-ul li{
+	float: left;
+}
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
+.menu-ul a{
+	display: block;
+	padding: 12px 10px;
+	border-right: 1px solid #1a1a1a;
+	
+}
+.menu-ul a:hover{
+	background: #000000;
+	color: #ffffff;
+	text-decoration: none;
+}
+.w1000{
+	width:990px;
+}
+.leftcolumn{
+	border-radius: 10px;
+	float: left;
+	width: 25%;
+}
+.noidung a{
+	display: block;
+	border-bottom: 1px solid #ffffff;
+	color: #ffffff;
+}
+.noidung{
+	margin-bottom: 0px;
+	background: #73AD21 !important;
+	border-radius: 10px;
+}
+.doitac{
+	border-radius: 10px;
+	background: #73AD21;
+	margin-bottom: 0px;
+}
+.doitac a{
+	display: block;
+	border-bottom:1px solid #ffffff;
+}
+.tranglienket
+{
+	border-radius: 10px;
+	background: #73AD21;
+}
+.tranglienket .trang{
+	border-bottom: 1px solid #ffffff;
+}
+a:hover{
+	color: #000000;
+}
+.tranglienket .trang{
+	padding: 3px;
+}
+.tranglienket img{
+	float:left;
+	margin-right: 4px;
+}
+.trang:hover{
+	background: #63961d;
+}
+.after-menu{
+	width: 100%;
+	margin-top: 5px;
+	border-radius: 5px;
+	border:2px solid #ccccff;
+	padding: 4px 0px 4px 0px;
+	box-shadow: 6px 6px 5px #888888;
+}
+.content{
+	width: 100%;
+	margin-top: 25px;
+}
+.center{
+	float: left;
+	width: 73%;
+	margin-left: 18px;
+}
+.trang{
+	border-radius: 10px;
+}
+.lienquan{
+	border-radius: 10px;
+	background: #73AD21;
+}
+.lienquan div{
+	display: block;
+	margin-bottom: 5px;
+}
+.left-radious{
+	border-bottom: 1px solid #ffffff;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
+/*search*/
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.tintuc{
+	width:100%;
+	display: block;
+	border-bottom: 1px solid #73AD21;
+}
+.tintuc img{
+	float: left;
+	margin-right: 5px;
+}
+.box-tin .box-trai{
+	width: 60%;
+	float: left;
+	border-right: 2px solid #73AD21;
+	margin-right: 5px;
+	padding-left: 10px;
+}
+
+.box-tin .box-phai img{
+	float: left;
+	margin-right: 3px;
+	margin-left: 6px;
+}
+.box-tin{
+	padding-top: 0px;
+	width: 100%;
+	border: 2px solid #73AD21;
+	margin-bottom: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+.box-tin .box-phai{
+	width: 38%;
+	border-bottom: 1px solid #73AD21;
+	border-radius: 15px;
+	float: left;
+	margin-bottom: 3px;
+}
+.box-phai .clr{
+	margin-bottom:2px;
+}
+.box-tin h3.tin{
+	margin-top: 0px;
+	display: block;
+	border: 1px;
+	background: url('http://k14.vcmedia.vn/web_images/k14-cat-home-pattern.png');
+	border-bottom: 3px solid #999966;
+	color: #ffffff;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.box-tin h3.tin a:hover{
+	color:white;
+}
+.footer{
+	width: 100%;
+	padding-left: 0px; 
+	margin-top: 15px;
+}
+.box-trai a:hover,.box-phai a:hover{
+	text-decoration: none;
+	color: #009933;
+}
+.div-acc{
+	width:990px;
+	/*position: absolute;*/
+}
+.search{
+	margin-top: 0px !important;
+}
+.back_top{
+    position: fixed;
+    bottom: 10px;
+    right: 130px;
+    cursor: pointer;
+}
+.bot{
+	height: 200px;
+}
+.bot ul li{
+	width: 20%;
+	height: 135px;
+	margin-right: 0px;
+}
+.bot ul li img{
+	width: 135px;
+	height: 135px;
+}
+.form-search{
+	color: #558118;
+	font-size: 17px;
+}
+.tracuu{
+	border-radius: 10px;
+	border:3px solid #9999ff;
+}
+.tracuu .row{
+	margin:0px;
+}
+#clock{
+	margin-top: 10px;
+	color: #558118;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #558118;
+	font-size: 16px;
+}
+#search{
+	border: 1px solid #8080ff;
+	border-right:none;
+	box-shadow: -1px 1px 3px #888888;
+}
+.sp-search{
+	border: 1px solid #8080ff;
+	 box-shadow: 0px 1px 5px #888888;
+}
+#thong-bao li{
+	list-style-type: none;
+	position: relative;
+}
+#thong-bao li a{
+	font-size: 18px;
+	margin-left: 10px;
+}
+/*#thong-bao li::before{
+	content: ">>";
+	font-size: 12px;
+	left: 0px;
+	float: left;
+	margin-right: 10px;
+	color: #3366cc;
+	margin-top: 6px;
+	font-weight: bold;
+}*/
